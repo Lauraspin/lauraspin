@@ -1,6 +1,6 @@
 # Hiii! Meu nome é Amannda Laura 👋
 
-🎓 Graduanda em Física bacharelado | 👩‍💻 Iniciando em Análise de Dados  
+🎓 Graduada em Física bacharelado | 👩‍💻 Iniciando em Análise de Dados  
 📊 Explorando Power BI, SQL e Python  
 🧠 Apaixonada por aprender e resolver problemas com dados  
 🔍 Em busca de oportunidades para aplicar e expandir meus conhecimentos!
