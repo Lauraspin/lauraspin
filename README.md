@@ -5,6 +5,8 @@
 🧠 Apaixonada por aprender e resolver problemas com dados  
 🔍 Em busca de oportunidades para aplicar e expandir meus conhecimentos!
 
-📫 Como me encontrar: amannda.rev@gmail.com
+📫 Como me encontrar: 
+amannda.rev@gmail.com
+linkedin.com/in/amanndalaura
 
 
