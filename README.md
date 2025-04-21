@@ -5,17 +5,6 @@
 🧠 Passionate about learning and solving problems with data   
 🔍 Looking for opportunities to apply and expand my knowledge!   
 📫 How to reach me:   
-amannda.rev@gmail.com   
-linkedin.com/in/amanndalaura
-
-Pt-Br -------------------- ------ ------ ------
-
-🎓 Graduada em Física bacharelado | 👩‍💻 Iniciando em Análise de Dados  
-📊 Explorando Power BI, SQL e Python  
-🧠 Apaixonada por aprender e resolver problemas com dados  
-🔍 Em busca de oportunidades para aplicar e expandir meus conhecimentos!  
-📫 Como me encontrar:    
-amannda.rev@gmail.com   
-linkedin.com/in/amanndalaura
-
-
+[e-mail](amannda.rev@gmail.com)   
+[LinkedIn](linkedin.com/in/amanndalaura)
+[Lattes](http://lattes.cnpq.br/3278353794484625)
