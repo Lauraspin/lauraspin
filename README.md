@@ -5,6 +5,6 @@
 🧠 Passionate about learning and solving problems with data   
 🔍 Looking for opportunities to apply and expand my knowledge!   
 📫 How to reach me:   
-- [e-mail](amannda.rev@gmail.com).   
-- [LinkedIn](linkedin.com/in/amanndalaura).   
-- [Lattes](http://lattes.cnpq.br/3278353794484625).
+- 📧 [amannnda.rev@gmail.com](mailto:amannnda.rev@gmail.com)  
+- 📎 [Meu LinkedIn](https://linkedin.com/in/amanndalaura)
+- 🎓 [Lattes](http://lattes.cnpq.br/3278353794484625).
