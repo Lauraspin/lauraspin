@@ -6,5 +6,5 @@
 🔍 Looking for opportunities to apply and expand my knowledge!   
 📫 How to reach me:   
 - 📧 [amannnda.rev@gmail.com](mailto:amannnda.rev@gmail.com)  
-- 📎 [Meu LinkedIn](https://linkedin.com/in/amanndalaura)
+- 📎 [LinkedIn](https://linkedin.com/in/amanndalaura)
 - 🎓 [Lattes](http://lattes.cnpq.br/3278353794484625).
