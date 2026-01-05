@@ -1,10 +1,11 @@
 # Hiii! I'm Amannda Laura 👋
 
-🎓 Bachelor's Degree in Physics | 👩‍💻 Starting in Data Analysis   
-📊 Exploring Power BI, SQL, and Python.   
-🧠 Passionate about learning and solving problems with data.   
-🔍 Looking for opportunities to apply and expand my knowledge!   
-📫 How to reach me:   
+🎓 MSc candidate in Physics | Data Science & ML Enthusiast 
+📊 Applying physical intuition and mathematical rigor to solve complex data problems.
+🛠️ Stack: Python (NumPy, SciPy, Scikit-Learn), SQL, Power BI.
+🧠 Focus: Bridging Physics-based modeling with Machine Learning to uncover insights. 
+💼 Transitioning scientific rigor into high-impact industry solutions.   
+📫 Let’s connect!   
 - 📧 [amannnda.rev@gmail.com](mailto:amannnda.rev@gmail.com)  
 - 📎 [LinkedIn](https://linkedin.com/in/amanndalaura)
 - 🎓 [Lattes](http://lattes.cnpq.br/3278353794484625).
